@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Giovane Salazar!
 
-🎓 Estudante de **Ciência da Computação na FIAP**
-
-💻 Interessado em **Desenvolvimento de Software, Inteligência Artificial, Dados e Cloud Computing**
+>🎓 Estudante de **Ciência da Computação na FIAP**
+>
+>💻 Interessado em **Desenvolvimento de Software, Inteligência Artificial e Dados**
 
 ---
 
