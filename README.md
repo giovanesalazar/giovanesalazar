@@ -60,7 +60,7 @@ Sistema IoT para monitoramento de uma cápsula espacial utilizando Arduino, sens
 
 ---
 
-### 🚀 [Mission Control AI:](https://github.com/giovanesalazar/mission-control-ai)
+### 🚀 [Mission Control AI](https://github.com/giovanesalazar/mission-control-ai)
 
 Sistema em Python para análise de dados, identificação de riscos e geração de relatórios de missões espaciais.
 
@@ -68,7 +68,7 @@ Sistema em Python para análise de dados, identificação de riscos e geração 
 
 ---
 
-### 🚗 [GoodWe ChargeOps — RAG Chatbot:](https://github.com/giovanesalazar/goodwe-chargeops-rag-chatbot)
+### 🚗 [GoodWe ChargeOps — RAG Chatbot](https://github.com/giovanesalazar/goodwe-chargeops-rag-chatbot)
 
 Assistente virtual baseado em LLM, RAG e ChromaDB para consulta inteligente de documentação técnica.
 
@@ -76,7 +76,7 @@ Assistente virtual baseado em LLM, RAG e ChromaDB para consulta inteligente de d
 
 ---
 
-### 📊 [Space Missions Data Analysis:](https://github.com/giovanesalazar/space-missions-data-analysis)
+### 📊 [Space Missions Data Analysis](https://github.com/giovanesalazar/space-missions-data-analysis)
 
 Análise estatística de missões espaciais utilizando Python, com aplicação de estatística descritiva e visualização de dados.
 
