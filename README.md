@@ -44,6 +44,12 @@ Também tenho experiência acadêmica e prática com **Inteligência Artificial,
 
 ## 📌 Projetos em destaque
 
+### ⚡[GoodWe ChargeGrid Intelligence](https://github.com/giovanesalazar/GoodWe-ChargeGrid-Intelligence)
+
+Plataforma web para gerenciamento inteligente de recargas de veículos elétricos, desenvolvida com Python, Flask, SQLAlchemy, SQLite, HTML, CSS e JavaScript. Inclui APIs, autenticação de usuários, gerenciamento de veículos, simulação de recargas, cálculo de consumo energético, tarifação dinâmica e pagamentos simulados.
+
+`Python` `Flask` `SQLAlchemy` `SQLite` `JavaScript` `HTML` `CSS` `Rest-API`
+
 ### 🔋[GoodWe Charge Simulator](https://github.com/giovanesalazar/goodwe-charge-simulator)
 
 Aplicação web para simulação de sessões de recarga de veículos elétricos, com regras de tarifação, cálculos de consumo, validação de formulários e interface interativa.
