@@ -1,7 +1,7 @@
 <h1 align="center">Giovane Salazar</h1>
 
 <p align="center">
-  🎓 Estudante de Ciência da Computação na FIAP • Python • JavaScript • Git
+  🎓 Estudante de Ciência da Computação na FIAP • Python • JavaScript • SQL
 </p>
 
 <p align="center">
